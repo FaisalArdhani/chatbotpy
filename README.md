@@ -18,8 +18,8 @@ To get a copy of this chatbot up and running on your local machine, follow these
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/assistant-gpt-3.5-chatbot.git
-cd assistant-gpt-3.5-chatbot
+git clone https://github.com/FaisalArdhani/chatbotpy.git
+cd chatbotpy
 ```
 
 2. Run the chatbot:
