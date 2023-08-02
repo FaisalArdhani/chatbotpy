@@ -1,4 +1,4 @@
-# Assistant GPT-3.5 - A Simple Chatbot in Python
+# Simple Chatbot in Python
 
 ![Chatbot](chatbot.jpg)
 
